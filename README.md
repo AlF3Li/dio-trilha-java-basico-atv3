@@ -1,6 +1,8 @@
 # dio-trilha-java-basico-atv3
 Olá, pessoal. Fui desafiado novamente pela DIO. Dessa vez me fizeram criar uma representação (UML) do projeto do iphone.
+
 O UML da lógica está em: [Ver representação](Dio-trilha-java-básico-atv3-UML.png)
+
 O código do desafio está em: [Ver código do Contador](src/Contador.java)
 
 
