@@ -3,7 +3,7 @@ Olá, pessoal. Fui desafiado novamente pela DIO. Dessa vez me fizeram criar uma 
 
 O UML da lógica está em: [Ver representação](Dio-trilha-java-básico-atv3-UML.png)
 
-O código do desafio está em: [Ver código do Contador](src/)
+O código do desafio está em: [Ver código do Iphone](dio-trilha-java-basico-atv3/src)
 
 
 <h3> 1. Segue abaixo o desafio proposto pelo curo e o link do repositório oficial:</h3>
